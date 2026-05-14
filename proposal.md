@@ -224,7 +224,16 @@ Reduction in regional unemployment disparities
 |---|---|
 | Training mismatch | Employer consultation |
 | Regulatory overreach | Adaptive regulation |
-
 ---
+# Conclusion
+AI presents both significant economic opportunities and substantial labour-market risks. Productivity gains from AI could improve national income and living standards, but unmanaged disruption may increase inequality, labour insecurity, and market concentration. A successful policy response must therefore combine economic efficiency with social protection.
+
+Australia should adopt a proactive transition strategy centred on workforce adaptability, targeted adjustment support, and responsible AI governance. By investing early in human capital and institutional capability, government can ensure AI complements workers rather than replacing them, supporting inclusive and sustainable economic growth.
 
 # References
+Acemoglu, D & Restrepo, P 2020, ‘Robots and jobs: Evidence from US labor markets’, Journal of Political Economy, vol. 128, no. 6.
+Autor, D 2015, ‘Why are there still so many jobs?’, Journal of Economic Perspectives, vol. 29, no. 3.
+Brynjolfsson, E & McAfee, A 2014, The Second Machine Age, W.W. Norton & Company.
+International Monetary Fund 2024, Gen-AI: Artificial Intelligence and the Future of Work.
+Organisation for Economic Co-operation and Development 2023, Employment Outlook 2023: Artificial Intelligence and the Labour Market.
+World Economic Forum 2025, Future of Jobs Report 2025.
