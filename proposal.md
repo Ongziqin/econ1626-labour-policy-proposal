@@ -82,11 +82,58 @@ These concerns require governance frameworks that balance innovation with accoun
 # Policy Options
 
 ## Option 1: National Reskilling Program
+his policy would expand subsidised lifelong learning focused on AI-related and transferable skills. Training would target workers in occupations with high automation exposure.
 
+Key components:
+
+Government-funded microcredentials
+Employer training incentives
+Partnerships with universities and TAFEs
+Mid-career transition scholarships
+Regional digital skills hubs
+Advantages
+Improves labour adaptability
+Supports long-term productivity growth
+Reduces structural unemployment risk
+Limitations
+Expensive to scale nationally
+Training quality may vary
+Benefits emerge gradually
 ## Option 2: AI Transition Support Scheme
+This option would provide direct adjustment assistance to displaced or at-risk workers.
 
+Key components:
+
+Wage insurance for displaced workers
+Temporary income support during retraining
+Career transition services
+Rapid-response employment programs for affected industries
+Advantages
+Reduces short-term social disruption
+Supports workforce participation
+Improves political and social acceptance of AI adoption
+Limitations
+May create fiscal pressure
+Risks dependency if poorly targeted
+Does not directly increase productivity
 ## Option 3: Responsible AI Regulation
+This policy would establish regulatory standards for workplace AI deployment while strengthening competition oversight.
 
+Key components:
+
+Transparency requirements for AI-assisted employment decisions
+Worker consultation obligations
+Data governance standards
+Competition regulation targeting dominant AI platforms
+Public-sector AI ethics guidelines
+Advantages
+Builds public trust
+Reduces harmful labour-market practices
+Prevents excessive market concentration
+Limitations
+Compliance costs for firms
+Risk of slowing innovation if regulation is overly restrictive
+Regulatory capability gaps within government
 ---
 
 # Evaluation Matrix
