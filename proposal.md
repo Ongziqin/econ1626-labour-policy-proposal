@@ -5,11 +5,28 @@
 ---
 
 # Executive Summary
+Artificial intelligence (AI) is reshaping labour markets through automation, augmentation, and the reorganisation of production. Unlike previous waves of technological change, generative AI can perform non-routine cognitive tasks previously associated with high-skilled occupations, affecting sectors such as finance, education, legal services, customer support, and administration. While AI is expected to improve productivity and innovation, the transition risks widening wage inequality, increasing labour-market polarisation, and displacing workers whose tasks are highly automatable.
 
+This proposal recommends a coordinated national response centred on three pillars: (1) a targeted lifelong reskilling system, (2) AI transition support for affected workers and firms, and (3) regulatory and competition reforms promoting responsible AI adoption. The package combines economic efficiency with equity objectives by supporting productivity growth while reducing adjustment costs. The proposal recommends phased implementation over five years with measurable KPIs linked to workforce participation, training outcomes, productivity, and wage resilience. A proactive policy approach is necessary to ensure AI complements rather than undermines inclusive economic growth.
 ---
 
 # Problem Definition & Context
+AI is transforming work primarily through task automation and task augmentation. Traditional automation replaced routine manual labour, particularly in manufacturing. By contrast, modern AI systems — especially generative AI — can perform language, analytical, and decision-support tasks previously undertaken by professionals and knowledge workers.
 
+Economic research suggests that AI affects labour markets through four major channels:
+
+Automation of tasks
+AI substitutes for workers performing repetitive cognitive or administrative functions such as scheduling, document drafting, data entry, and basic analysis.
+Augmentation of labour productivity
+AI can increase worker efficiency by assisting decision-making, coding, research, and communication.
+Creation of new occupations and industries
+AI generates demand for data scientists, AI governance specialists, cybersecurity professionals, and digital infrastructure services.
+Industrial restructuring and market concentration
+Large firms with data, computing infrastructure, and capital may gain disproportionate advantages, increasing market concentration and reducing competitive dynamism.
+
+These shifts are occurring unevenly across industries and demographic groups. Workers with adaptable digital skills are more likely to benefit, while workers in clerical, administrative, and routine service occupations face higher displacement risk. Younger workers may adapt more easily than older workers, and regional communities dependent on vulnerable industries may experience concentrated disruption.
+
+The challenge for government is therefore not whether AI adoption should occur, but how to manage the transition to maximise productivity gains while minimising social and economic dislocation.
 ---
 
 # Analysis of Impacts
