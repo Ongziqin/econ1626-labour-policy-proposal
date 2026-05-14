@@ -147,7 +147,75 @@ Regulatory capability gaps within government
 ---
 
 # Recommended Package & Implementation Plan
+1. Establish an “AI Skills Guarantee”
 
+Provide subsidised lifelong learning access for workers in high-exposure occupations.
+
+Priority sectors:
+
+Administration
+Retail
+Customer support
+Financial services
+Logistics
+
+Training should emphasise:
+
+Digital literacy
+AI-assisted workflows
+Analytical skills
+Human-centred capabilities
+2. Create an AI Workforce Transition Fund
+
+Support displaced workers through temporary wage insurance, retraining subsidies, and employment services.
+
+Funding could be shared between:
+
+Federal government
+State governments
+Large AI-adopting firms
+3. Introduce Responsible Workplace AI Standards
+
+Develop nationally consistent rules governing:
+
+Algorithmic transparency
+Worker data privacy
+Human oversight in employment decisions
+Anti-discrimination protections
+
+The Australian Competition and Consumer Commission should also monitor anti-competitive behaviour in AI markets.
+Implementation Timeline
+Phase	Timeline	Actions
+Phase 1	Year 1	Establish taskforce, pass enabling legislation, identify vulnerable sectors
+Phase 2	Years 2–3	Launch training programs and transition fund
+Phase 3	Years 4–5	Expand national coverage, evaluate outcomes, refine regulations
+Responsibilities
+Institution	Responsibility
+Department of Employment and Workplace Relations	Workforce policy coordination
+Department of Industry, Science and Resources	Industry AI adoption strategy
+Australian Competition and Consumer Commission	Competition oversight
+Universities & TAFEs	Skills delivery
+Employers	Workforce transition planning
+Indicative Costs
+
+Estimated annual federal expenditure:
+
+Skills Guarantee: AUD $2–3 billion
+Transition Fund: AUD $1 billion
+Regulatory administration: AUD $150 million
+
+These costs should be viewed as long-term productivity investments rather than short-term expenditure burdens.
+
+Key Performance Indicators (KPIs)
+
+Success should be measured using:
+
+Workforce participation rates
+Re-employment rates after displacement
+AI-related training completion rates
+Productivity growth
+Wage growth in vulnerable sectors
+Reduction in regional unemployment disparities
 ---
 
 # Risks & Mitigations
