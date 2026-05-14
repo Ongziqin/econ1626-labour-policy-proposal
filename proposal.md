@@ -32,11 +32,51 @@ The challenge for government is therefore not whether AI adoption should occur, 
 # Analysis of Impacts
 
 ## Employment and Tasks
+AI is unlikely to cause mass technological unemployment in the short term, but it will significantly alter job composition. Most occupations consist of bundles of tasks rather than single activities. Consequently, AI is expected to automate specific tasks rather than entirely replace occupations.
 
+High-exposure occupations include:
+
+Administrative support
+Customer service
+Basic accounting and bookkeeping
+Data processing
+Entry-level legal and consulting work
+
+At the same time, occupations requiring interpersonal interaction, creativity, physical dexterity, or complex judgement are less vulnerable. Examples include healthcare, skilled trades, teaching, and management.
+
+The likely outcome is occupational restructuring, where workers increasingly collaborate with AI systems rather than compete directly against them.
 ## Wages and Inequality
+AI adoption may increase wage inequality through skill-biased technological change. High-skilled workers capable of leveraging AI tools may experience productivity and wage gains, while middle-income routine occupations face wage stagnation or decline.
 
+This could intensify labour-market polarisation:
+
+Growth in high-skill, high-income occupations
+Expansion of lower-paid service jobs resistant to automation
+Contraction of middle-income administrative roles
+
+Without intervention, AI may widen existing inequalities across education levels, age groups, and regions.
 ## Productivity and Innovation
+AI offers substantial productivity potential. Firms adopting AI effectively may reduce operational costs, improve service delivery, and accelerate innovation. Productivity growth is particularly important for Australia given slowing productivity growth over the past decade.
 
+However, productivity gains are not automatic. Benefits depend on complementary investments in:
+
+Worker training
+Digital infrastructure
+Organisational redesign
+Cybersecurity and governance systems
+
+Firms that fail to adapt may become less competitive domestically and internationally.
+
+Ethical and Social Risks
+
+AI deployment also creates broader social and regulatory concerns:
+
+Algorithmic bias in hiring and evaluation
+Workplace surveillance and privacy issues
+Reduced job quality and worker autonomy
+Concentration of economic power among large technology firms
+
+These concerns require governance frameworks that balance innovation with accountability and public trust.
 ---
 
 # Policy Options
