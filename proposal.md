@@ -15,14 +15,14 @@ AI is transforming work primarily through task automation and task augmentation.
 
 Economic research suggests that AI affects labour markets through four major channels:
 
-Automation of tasks
-AI substitutes for workers performing repetitive cognitive or administrative functions such as scheduling, document drafting, data entry, and basic analysis.
-Augmentation of labour productivity
-AI can increase worker efficiency by assisting decision-making, coding, research, and communication.
-Creation of new occupations and industries
-AI generates demand for data scientists, AI governance specialists, cybersecurity professionals, and digital infrastructure services.
-Industrial restructuring and market concentration
-Large firms with data, computing infrastructure, and capital may gain disproportionate advantages, increasing market concentration and reducing competitive dynamism.
+1)Automation of tasks
+-AI substitutes for workers performing repetitive cognitive or administrative functions such as scheduling, document drafting, data entry, and basic analysis.
+2)Augmentation of labour productivity
+-AI can increase worker efficiency by assisting decision-making, coding, research, and communication.
+3)Creation of new occupations and industries
+-AI generates demand for data scientists, AI governance specialists, cybersecurity professionals, and digital infrastructure services.
+4)Industrial restructuring and market concentration
+-Large firms with data, computing infrastructure, and capital may gain disproportionate advantages, increasing market concentration and reducing competitive dynamism.
 
 These shifts are occurring unevenly across industries and demographic groups. Workers with adaptable digital skills are more likely to benefit, while workers in clerical, administrative, and routine service occupations face higher displacement risk. Younger workers may adapt more easily than older workers, and regional communities dependent on vulnerable industries may experience concentrated disruption.
 
@@ -36,11 +36,11 @@ AI is unlikely to cause mass technological unemployment in the short term, but i
 
 High-exposure occupations include:
 
-Administrative support
-Customer service
-Basic accounting and bookkeeping
-Data processing
-Entry-level legal and consulting work
+1)Administrative support
+2)Customer service
+3)Basic accounting and bookkeeping
+4)Data processing
+5)Entry-level legal and consulting work
 
 At the same time, occupations requiring interpersonal interaction, creativity, physical dexterity, or complex judgement are less vulnerable. Examples include healthcare, skilled trades, teaching, and management.
 
@@ -48,11 +48,11 @@ The likely outcome is occupational restructuring, where workers increasingly col
 ## Wages and Inequality
 AI adoption may increase wage inequality through skill-biased technological change. High-skilled workers capable of leveraging AI tools may experience productivity and wage gains, while middle-income routine occupations face wage stagnation or decline.
 
-This could intensify labour-market polarisation:
+-This could intensify labour-market polarisation:
 
-Growth in high-skill, high-income occupations
-Expansion of lower-paid service jobs resistant to automation
-Contraction of middle-income administrative roles
+1)Growth in high-skill, high-income occupations
+2)Expansion of lower-paid service jobs resistant to automation
+3)Contraction of middle-income administrative roles
 
 Without intervention, AI may widen existing inequalities across education levels, age groups, and regions.
 ## Productivity and Innovation
@@ -60,10 +60,10 @@ AI offers substantial productivity potential. Firms adopting AI effectively may 
 
 However, productivity gains are not automatic. Benefits depend on complementary investments in:
 
-Worker training
-Digital infrastructure
-Organisational redesign
-Cybersecurity and governance systems
+1)Worker training
+2)Digital infrastructure
+3)Organisational redesign
+4)Cybersecurity and governance systems
 
 Firms that fail to adapt may become less competitive domestically and internationally.
 
@@ -71,10 +71,10 @@ Ethical and Social Risks
 
 AI deployment also creates broader social and regulatory concerns:
 
-Algorithmic bias in hiring and evaluation
-Workplace surveillance and privacy issues
-Reduced job quality and worker autonomy
-Concentration of economic power among large technology firms
+1)Algorithmic bias in hiring and evaluation
+2)Workplace surveillance and privacy issues
+3)Reduced job quality and worker autonomy
+4)Concentration of economic power among large technology firms
 
 These concerns require governance frameworks that balance innovation with accountability and public trust.
 ---
@@ -86,16 +86,16 @@ his policy would expand subsidised lifelong learning focused on AI-related and t
 
 Key components:
 
-Government-funded microcredentials
-Employer training incentives
-Partnerships with universities and TAFEs
-Mid-career transition scholarships
-Regional digital skills hubs
-Advantages
+1)Government-funded microcredentials
+2)Employer training incentives
+3)Partnerships with universities and TAFEs
+4)Mid-career transition scholarships
+5)Regional digital skills hubs
+## Advantages
 Improves labour adaptability
 Supports long-term productivity growth
 Reduces structural unemployment risk
-Limitations
+## Limitations
 Expensive to scale nationally
 Training quality may vary
 Benefits emerge gradually
@@ -104,36 +104,36 @@ This option would provide direct adjustment assistance to displaced or at-risk w
 
 Key components:
 
-Wage insurance for displaced workers
-Temporary income support during retraining
-Career transition services
-Rapid-response employment programs for affected industries
-Advantages
-Reduces short-term social disruption
-Supports workforce participation
-Improves political and social acceptance of AI adoption
-Limitations
-May create fiscal pressure
-Risks dependency if poorly targeted
-Does not directly increase productivity
+1)Wage insurance for displaced workers
+2)Temporary income support during retraining
+3)Career transition services
+4)Rapid-response employment programs for affected industries
+### Advantages
+1)Reduces short-term social disruption
+2)Supports workforce participation
+3)Improves political and social acceptance of AI adoption
+### Limitations
+1)May create fiscal pressure
+2)Risks dependency if poorly targeted
+3)Does not directly increase productivity
 ## Option 3: Responsible AI Regulation
 This policy would establish regulatory standards for workplace AI deployment while strengthening competition oversight.
 
 Key components:
 
-Transparency requirements for AI-assisted employment decisions
-Worker consultation obligations
-Data governance standards
-Competition regulation targeting dominant AI platforms
-Public-sector AI ethics guidelines
-Advantages
-Builds public trust
-Reduces harmful labour-market practices
-Prevents excessive market concentration
-Limitations
-Compliance costs for firms
-Risk of slowing innovation if regulation is overly restrictive
-Regulatory capability gaps within government
+1)Transparency requirements for AI-assisted employment decisions
+2)Worker consultation obligations
+3)Data governance standards
+4)Competition regulation targeting dominant AI platforms
+5)Public-sector AI ethics guidelines
+## Advantages
+1)Builds public trust
+2)Reduces harmful labour-market practices
+3)Prevents excessive market concentration
+## Limitations
+1)Compliance costs for firms
+2)Risk of slowing innovation if regulation is overly restrictive
+3)Regulatory capability gaps within government
 ---
 
 # Evaluation Matrix
@@ -151,58 +151,58 @@ Regulatory capability gaps within government
 
 Provide subsidised lifelong learning access for workers in high-exposure occupations.
 
-Priority sectors:
+## Priority sectors:
 
-Administration
-Retail
-Customer support
-Financial services
-Logistics
+1)Administration
+2)Retail
+3)Customer support
+4)Financial services
+5)Logistics
 
 Training should emphasise:
 
-Digital literacy
-AI-assisted workflows
-Analytical skills
-Human-centred capabilities
-2. Create an AI Workforce Transition Fund
+1)Digital literacy
+2)AI-assisted workflows
+3)Analytical skills
+4)Human-centred capabilities
+## 2. Create an AI Workforce Transition Fund
 
 Support displaced workers through temporary wage insurance, retraining subsidies, and employment services.
 
 Funding could be shared between:
 
-Federal government
-State governments
-Large AI-adopting firms
-3. Introduce Responsible Workplace AI Standards
+1)Federal government
+2)State governments
+3)Large AI-adopting firms
+## 3. Introduce Responsible Workplace AI Standards
 
 Develop nationally consistent rules governing:
 
-Algorithmic transparency
-Worker data privacy
-Human oversight in employment decisions
-Anti-discrimination protections
+1)Algorithmic transparency
+2)Worker data privacy
+3)Human oversight in employment decisions
+4)Anti-discrimination protections
 
 The Australian Competition and Consumer Commission should also monitor anti-competitive behaviour in AI markets.
-Implementation Timeline
+## Implementation Timeline
 Phase	Timeline	Actions
-Phase 1	Year 1	Establish taskforce, pass enabling legislation, identify vulnerable sectors
-Phase 2	Years 2–3	Launch training programs and transition fund
-Phase 3	Years 4–5	Expand national coverage, evaluate outcomes, refine regulations
+-Phase 1	Year 1	Establish taskforce, pass enabling legislation, identify vulnerable sectors
+-Phase 2	Years 2–3	Launch training programs and transition fund
+-Phase 3	Years 4–5	Expand national coverage, evaluate outcomes, refine regulations
 Responsibilities
-Institution	Responsibility
-Department of Employment and Workplace Relations	Workforce policy coordination
-Department of Industry, Science and Resources	Industry AI adoption strategy
-Australian Competition and Consumer Commission	Competition oversight
-Universities & TAFEs	Skills delivery
-Employers	Workforce transition planning
-Indicative Costs
+## Institution	Responsibility
+-Department of Employment and Workplace Relations	-Workforce policy coordination
+-Department of Industry, Science and Resources	-Industry AI adoption strategy
+-Australian Competition and Consumer Commission	-Competition oversight
+-Universities & TAFEs	-Skills delivery
+-Employers	- Workforce transition planning
+## Indicative Costs
 
 Estimated annual federal expenditure:
 
-Skills Guarantee: AUD $2–3 billion
-Transition Fund: AUD $1 billion
-Regulatory administration: AUD $150 million
+-Skills Guarantee: AUD $2–3 billion
+-Transition Fund: AUD $1 billion
+-Regulatory administration: AUD $150 million
 
 These costs should be viewed as long-term productivity investments rather than short-term expenditure burdens.
 
@@ -210,12 +210,12 @@ Key Performance Indicators (KPIs)
 
 Success should be measured using:
 
-Workforce participation rates
-Re-employment rates after displacement
-AI-related training completion rates
-Productivity growth
-Wage growth in vulnerable sectors
-Reduction in regional unemployment disparities
+-Workforce participation rates
+-Re-employment rates after displacement
+-AI-related training completion rates
+-Productivity growth
+-Wage growth in vulnerable sectors
+-Reduction in regional unemployment disparities
 ---
 
 # Risks & Mitigations
@@ -231,9 +231,9 @@ AI presents both significant economic opportunities and substantial labour-marke
 Australia should adopt a proactive transition strategy centred on workforce adaptability, targeted adjustment support, and responsible AI governance. By investing early in human capital and institutional capability, government can ensure AI complements workers rather than replacing them, supporting inclusive and sustainable economic growth.
 
 # References
-Acemoglu, D & Restrepo, P 2020, ‘Robots and jobs: Evidence from US labor markets’, Journal of Political Economy, vol. 128, no. 6.
-Autor, D 2015, ‘Why are there still so many jobs?’, Journal of Economic Perspectives, vol. 29, no. 3.
-Brynjolfsson, E & McAfee, A 2014, The Second Machine Age, W.W. Norton & Company.
-International Monetary Fund 2024, Gen-AI: Artificial Intelligence and the Future of Work.
-Organisation for Economic Co-operation and Development 2023, Employment Outlook 2023: Artificial Intelligence and the Labour Market.
-World Economic Forum 2025, Future of Jobs Report 2025.
+1)Acemoglu, D & Restrepo, P 2020, ‘Robots and jobs: Evidence from US labor markets’, Journal of Political Economy, vol. 128, no. 6.
+2)Autor, D 2015, ‘Why are there still so many jobs?’, Journal of Economic Perspectives, vol. 29, no. 3.
+3)Brynjolfsson, E & McAfee, A 2014, The Second Machine Age, W.W. Norton & Company.
+4)International Monetary Fund 2024, Gen-AI: Artificial Intelligence and the Future of Work.
+5)Organisation for Economic Co-operation and Development 2023, Employment Outlook 2023: Artificial Intelligence and the Labour Market.
+6)World Economic Forum 2025, Future of Jobs Report 2025.
